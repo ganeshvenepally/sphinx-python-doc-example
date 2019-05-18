@@ -11,8 +11,7 @@ This is a description of the website. This is just a example website for a tutor
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+  
    summary
    code
 

@@ -1,4 +1,5 @@
 def func1(arg1,arg2):
+
     """
     This function two arguments, sets the first to equal to second, then returns the new first argument.
     :param arg1: Some Value
@@ -6,7 +7,6 @@ def func1(arg1,arg2):
 
     :return: arg1
     """
-
     arg1 = arg2
     return arg1
 
