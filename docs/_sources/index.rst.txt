@@ -7,6 +7,9 @@ Welcome to Sphinx Documentation website example's documentation!
 ================================================================
 
 This is a description of the website. This is just a example website for a tutorial.
+Pranitha
+Pranitha
+Pranitha
 
 .. toctree::
    :maxdepth: 2
