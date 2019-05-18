@@ -10,6 +10,7 @@ Welcome to Sphinx Documentation website example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   code
 
 
 Indices and tables
